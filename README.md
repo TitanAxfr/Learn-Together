@@ -1,6 +1,6 @@
 # Learn Together
-
-A new Flutter project.
+(unfinished)
+Learn together is a peer to peer learning app focused to make learning easy and entertaining for students
 
 ## Getting Started
 
